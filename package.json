@@ -1,0 +1,13 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "three.js": "github:mrdoob/three.js@master"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.5.8",
+      "babel-runtime": "npm:babel-runtime@^5.5.8",
+      "core-js": "npm:core-js@^0.9.17"
+    }
+  }
+}
